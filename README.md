@@ -5,7 +5,6 @@ Quarta versão do terceiro layout Brafe, utilizando os conceitos de puro css par
 ### Outras versões:
 
 * [Puro CSS](https://github.com/taisesoares/brafe-3-pure-css)
-* [Grid CSS](https://github.com/taisesoares/brafe-3-grid-css)
 * [Flexbox](https://github.com/taisesoares/brafe-3-flexbox)
 
 <hr>
